@@ -1,0 +1,1881 @@
+TGSMD
+v7
+r0
+t323891660.029406
+cCheck dependencies
+cProcessInfoPlistFile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Info.plist GSMD-Info.plist
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/MainWindow.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/RootViewController.xib
+cCpResource build/Release-iphonesimulator/GSMD.app/btnBack.png btnBack.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnArtigos.png btnArtigos.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnImprensa.png btnImprensa.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnNoticias.png btnNoticias.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnSomos.png btnSomos.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnTalentos.png btnTalentos.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnHome.png btnHome.png
+cCpResource build/Release-iphonesimulator/GSMD.app/backListrado.png backListrado.png
+cCpResource build/Release-iphonesimulator/GSMD.app/logoGS&MD.png logoGS&MD.png
+cCpResource build/Release-iphonesimulator/GSMD.app/parceiros.png parceiros.png
+cCpResource build/Release-iphonesimulator/GSMD.app/somosEstrutura.png somosEstrutura.png
+cCpResource build/Release-iphonesimulator/GSMD.app/lineVertical2.png lineVertical2.png
+cCpResource build/Release-iphonesimulator/GSMD.app/lineVertical3.png lineVertical3.png
+cCpResource build/Release-iphonesimulator/GSMD.app/lineVertical.png lineVertical.png
+cCpResource build/Release-iphonesimulator/GSMD.app/logoQuintaNobre.png logoQuintaNobre.png
+cCpResource build/Release-iphonesimulator/GSMD.app/logoTrainee.png logoTrainee.png
+cCpResource build/Release-iphonesimulator/GSMD.app/logoViverBem.png logoViverBem.png
+cCpResource build/Release-iphonesimulator/GSMD.app/buttonBackground.png buttonBackground.png
+cCpResource build/Release-iphonesimulator/GSMD.app/btnDFreire.png btnDFreire.png
+cCpResource build/Release-iphonesimulator/GSMD.app/lineDotted.png lineDotted.png
+cCpResource build/Release-iphonesimulator/GSMD.app/lineSolid.png lineSolid.png
+cCpResource build/Release-iphonesimulator/GSMD.app/listImprensa.png listImprensa.png
+cCpResource build/Release-iphonesimulator/GSMD.app/listArtigos.png listArtigos.png
+cCpResource build/Release-iphonesimulator/GSMD.app/listNoticias.png listNoticias.png
+cCpResource build/Release-iphonesimulator/GSMD.app/Default.png Default.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconImprensa.png iconImprensa.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconArtigos.png iconArtigos.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconNoticias.png iconNoticias.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconSomos.png iconSomos.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconTalentos.png iconTalentos.png
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.xib
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.xib
+cCpResource build/Release-iphonesimulator/GSMD.app/publicidade.png publicidade.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconFacebook.png iconFacebook.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconLinkedin.png iconLinkedin.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconTwitter.png iconTwitter.png
+cCpResource build/Release-iphonesimulator/GSMD.app/iconYouTube.png iconYouTube.png
+cCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.xib
+cCpResource build/Release-iphonesimulator/GSMD.app/icon.png icon.png
+cCopyPlistFile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Entitlements.plist Entitlements.plist
+cProcessPCH /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch.gch GSMD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/main.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMDAppDelegate.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/RootViewController.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/OHAttributedLabel.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UIViewController+Loading.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UINavigationBar.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/functions.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/criaBotao.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/AATabBarController.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/tabBarItem.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UITabBar+ColorExtensions.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewNoticias.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewArtigos.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewTalentos.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewImprensa.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewAssessoria.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewQuemSomos.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Dados.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/News.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/TBXML.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewDetail.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/MeuWebViewViewController.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Banner.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/DadosImprensa.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD normal i386
+cGenerateDSYMFile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app.dSYM /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD
+cTouch /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004D54D0ED00000000000AA250
+t1297404141
+s696912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004D54D0E100000000000008C5
+t1297404129
+s2245
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004D5DE854000000000000291C
+t1297999956
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004D5DE85400000000000000CD
+t1297999956
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004D5DE869000000000009B020
+t1297999977
+s634912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.h
+c000000004D7F5D9A0000000000000177
+t1300192666
+s375
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m
+c000000004D7F5D9A000000000000040C
+t1300192666
+s1036
+i"AATabBarController.h"
+i"UITabBar+ColorExtensions.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.h
+c000000004D7F797500000000000000C6
+t1300199797
+s198
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m
+c000000004D7F7B0A0000000000000291
+t1300200202
+s657
+i"Banner.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.h
+c000000004D7F5D9A000000000000013D
+t1300192666
+s317
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m
+c000000004D9DD5850000000000000E53
+t1302189445
+s3667
+i"Dados.h"
+i"TBXML.h"
+i"global.h"
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.h
+c000000004D95D5B3000000000000014D
+t1301665203
+s333
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m
+c000000004D95E4790000000000000D12
+t1301668985
+s3346
+i"DadosImprensa.h"
+i"TBXML.h"
+i"global.h"
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.h
+c000000004D7F5D9A00000000000001C5
+t1300192666
+s453
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m
+c000000004D7F5D9A0000000000000A96
+t1300192666
+s2710
+i"GSMDAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.h
+c000000004D95ED1D000000000000020F
+t1301671197
+s527
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m
+c000000004D95ED1D0000000000001001
+t1301671197
+s4097
+i"MeuWebViewViewController.h"
+i"global.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.xib
+c000000004D7F75250000000000007EEF
+t1300198693
+s32495
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.h
+c000000004D7F5D9A0000000000000409
+t1300192666
+s1033
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m
+c000000004D7F5D9A0000000000000155
+t1300192666
+s341
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.h
+c000000004D7F5D9A0000000000000DBD
+t1300192666
+s3517
+i<UIKit/UIKit.h>
+i<CoreText/CoreText.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m
+c000000004D7F5D9A000000000000265D
+t1300192666
+s9821
+i"OHAttributedLabel.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.h
+c000000004D9DC8AB000000000000019E
+t1302186155
+s414
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m
+c000000004D9DFA430000000000001563
+t1302198851
+s5475
+i"RootViewController.h"
+i"OHAttributedLabel.h"
+i"ViewNoticias.h"
+i"ViewArtigos.h"
+i"ViewImprensa.h"
+i"ViewTalentos.h"
+i"ViewQuemSomos.h"
+i"MeuWebViewViewController.h"
+i"GSMDAppDelegate.h"
+i"tabBarItem.h"
+i"global.h"
+i"Dados.h"
+i"DadosImprensa.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m
+c000000004D810FEA0000000000000205
+t1300303850
+s517
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.h
+c000000004D7F5D9A00000000000001EF
+t1300192666
+s495
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m
+c000000004D7F5D9A00000000000009CA
+t1300192666
+s2506
+i"UITabBar+ColorExtensions.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.h
+c000000004D7F5D9A0000000000000198
+t1300192666
+s408
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m
+c000000004D7F5D9A00000000000009D2
+t1300192666
+s2514
+i"UIViewController+Loading.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.h
+c000000004D7F5D9A00000000000001CE
+t1300192666
+s462
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+i"Dados.h"
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m
+c000000004D9DFA43000000000000198F
+t1302198851
+s6543
+i"ViewArtigos.h"
+i"functions.h"
+i"criaBotao.h"
+i"ViewDetail.h"
+i"Banner.h"
+i"global.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.xib
+c000000004D7F5D9A0000000000004CFB
+t1300192666
+s19707
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.h
+c000000004D7F5D9A00000000000001FB
+t1300192666
+s507
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m
+c000000004D8110340000000000001107
+t1300303924
+s4359
+i"ViewAssessoria.h"
+i"functions.h"
+i"criaBotao.h"
+i"Banner.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib
+c000000004D7F5D9A0000000000009EF4
+t1300192666
+s40692
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.h
+c000000004D9DC7E4000000000000021A
+t1302185956
+s538
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m
+c000000004D9DEF5A00000000000014DC
+t1302196058
+s5340
+i"ViewDetail.h"
+i"functions.h"
+i"criaBotao.h"
+i"MeuWebViewViewController.h"
+i"Banner.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.xib
+c000000004D9DC80D00000000000048CE
+t1302185997
+s18638
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.h
+c000000004D95DD540000000000000248
+t1301667156
+s584
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+i"DadosImprensa.h"
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m
+c000000004D95E6860000000000001D86
+t1301669510
+s7558
+i"ViewImprensa.h"
+i"functions.h"
+i"ViewAssessoria.h"
+i"criaBotao.h"
+i"global.h"
+i"Banner.h"
+i"ViewDetail.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.xib
+c000000004D7F5D9A0000000000004EE6
+t1300192666
+s20198
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.h
+c000000004D7F5D9A00000000000001D2
+t1300192666
+s466
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+i"Dados.h"
+i"News.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m
+c000000004D9DFA4300000000000019A9
+t1302198851
+s6569
+i"ViewNoticias.h"
+i"functions.h"
+i"criaBotao.h"
+i"ViewDetail.h"
+i"Banner.h"
+i"global.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.xib
+c000000004D7F5D9A0000000000004CFE
+t1300192666
+s19710
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.h
+c000000004D7F5D9A0000000000000169
+t1300192666
+s361
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m
+c000000004D80D00B000000000000089A
+t1300287499
+s2202
+i"ViewQuemSomos.h"
+i"functions.h"
+i"criaBotao.h"
+i"Banner.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.xib
+c000000004D7F5D9A0000000000009E00
+t1300192666
+s40448
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.h
+c000000004D7F5D9A0000000000000165
+t1300192666
+s357
+i<UIKit/UIKit.h>
+i"tabBarItem.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m
+c000000004D80D00B000000000000137A
+t1300287499
+s4986
+i"ViewTalentos.h"
+i"functions.h"
+i"criaBotao.h"
+i"Banner.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.xib
+c000000004D7F5D9A000000000000B31B
+t1300192666
+s45851
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.h
+c000000004D7FB64F0000000000000191
+t1300215375
+s401
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m
+c000000004D80C1420000000000000ADC
+t1300283714
+s2780
+i"criaBotao.h"
+i"RootViewController.h"
+i"GSMDAppDelegate.h"
+i"global.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.h
+c000000004D7F5D9A0000000000000278
+t1300192666
+s632
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m
+c000000004D7F5D9A0000000000000C75
+t1300192666
+s3189
+i"functions.h"
+i"OHAttributedLabel.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/global.h
+c000000004D9DFA27000000000000015F
+t1302198823
+s351
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.h
+c000000004D80CF3D00000000000002DB
+t1300287293
+s731
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m
+c000000004D961A90000000000000108A
+t1301682832
+s4234
+i"RootViewController.h"
+i"tabBarItem.h"
+i"UITabBar+ColorExtensions.h"
+i"ViewNoticias.h"
+i"ViewArtigos.h"
+i"ViewImprensa.h"
+i"ViewTalentos.h"
+i"ViewQuemSomos.h"
+i"global.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Default.png
+c000000004D7F5DA9000000000001C780
+t1300192681
+s116608
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Entitlements.plist
+c000000004D6269C70000000000000221
+t1298295239
+s545
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/GSMD_Prefix.pch
+c000000004D7F5DA9000000000000013A
+t1300192681
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/MainWindow.xib
+c000000004D7F5DA9000000000000704C
+t1300192681
+s28748
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/RootViewController.xib
+c000000004D9DCFD4000000000000B25B
+t1302187988
+s45659
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/NSDataAdditions.h
+c000000004D7F5D9A0000000000000A67
+t1300192666
+s2663
+i<Foundation/Foundation.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.h
+c000000004D7F5D9A00000000000012D1
+t1300192666
+s4817
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m
+c000000004D7F5D9A0000000000004745
+t1300192666
+s18245
+i"TBXML.h"
+i"NSDataAdditions.h"
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/backListrado.png
+c000000004D7F5DA90000000000000941
+t1300192681
+s2369
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnArtigos.png
+c000000004D7F5DA90000000000000D69
+t1300192681
+s3433
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnBack.png
+c000000004D7F5DA9000000000000050D
+t1300192681
+s1293
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnDFreire.png
+c000000004D7F5DA90000000000000F6E
+t1300192681
+s3950
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnHome.png
+c000000004D7F5DA90000000000000729
+t1300192681
+s1833
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnImprensa.png
+c000000004D7F5DA90000000000000D47
+t1300192681
+s3399
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnNoticias.png
+c000000004D7F5DA90000000000000F1D
+t1300192681
+s3869
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnSomos.png
+c000000004D7F5DA90000000000000C55
+t1300192681
+s3157
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnTalentos.png
+c000000004D7F5DA90000000000000EF8
+t1300192681
+s3832
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/AATabBarController.o
+t1302188103
+s44100
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Banner.o
+t1302188104
+s39340
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Dados.o
+t1302198852
+s19844
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/DadosImprensa.o
+t1302198852
+s20044
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMD.LinkFileList
+c000000004D9DD0440000000000000CE8
+t1302188100
+s3304
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMDAppDelegate.o
+t1302188103
+s53384
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/MeuWebViewViewController.o
+t1302198852
+s55764
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/News.o
+t1302188104
+s16620
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/OHAttributedLabel.o
+t1302188103
+s65752
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/RootViewController.o
+t1302198851
+s54148
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/TBXML.o
+t1302188105
+s35412
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UINavigationBar.o
+t1302188103
+s39008
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UITabBar+ColorExtensions.o
+t1302188104
+s41328
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UIViewController+Loading.o
+t1302188103
+s44876
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewArtigos.o
+t1302198852
+s60824
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewAssessoria.o
+t1302188104
+s57676
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewDetail.o
+t1302198271
+s57024
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewImprensa.o
+t1302198852
+s64408
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewNoticias.o
+t1302198852
+s60680
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewQuemSomos.o
+t1302188104
+s46092
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewTalentos.o
+t1302188104
+s48976
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/criaBotao.o
+t1302198851
+s46708
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/functions.o
+t1302188103
+s45716
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/main.o
+t1302188103
+s7188
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/tabBarItem.o
+t1302198851
+s57572
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app
+t1302198852
+s1802
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app.dSYM
+t1302198852
+s102
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Default.png
+t1302188100
+s116608
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Entitlements.plist
+t1302188102
+s148
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD
+t1302198852
+s137508
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Info.plist
+t1302188100
+s580
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/MainWindow.nib
+t1302188100
+s1506
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/MeuWebViewViewController.nib
+t1302188102
+s1970
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/PkgInfo
+t1302188100
+s8
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/RootViewController.nib
+t1302188100
+s4070
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewArtigos.nib
+t1302188100
+s1146
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewAssessoria.nib
+t1302188101
+s3879
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewDetail.nib
+t1302188101
+s1017
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewImprensa.nib
+t1302188101
+s1146
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewNoticias.nib
+t1302188100
+s1146
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewQuemSomos.nib
+t1302188101
+s5076
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewTalentos.nib
+t1302188101
+s5816
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/backListrado.png
+t1302188100
+s2369
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnArtigos.png
+t1302188100
+s3433
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnBack.png
+t1302188100
+s1293
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnDFreire.png
+t1302188100
+s3950
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnHome.png
+t1302188100
+s1833
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnImprensa.png
+t1302188100
+s3399
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnNoticias.png
+t1302188100
+s3869
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnSomos.png
+t1302188100
+s3157
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/btnTalentos.png
+t1302188100
+s3832
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/buttonBackground.png
+t1302188100
+s1511
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/icon.png
+t1302188101
+s3119
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconArtigos.png
+t1302188100
+s1505
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconFacebook.png
+t1302188101
+s4075
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconImprensa.png
+t1302188100
+s2017
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconLinkedin.png
+t1302188101
+s4282
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconNoticias.png
+t1302188100
+s1338
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconSomos.png
+t1302188100
+s1128
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconTalentos.png
+t1302188100
+s1987
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconTwitter.png
+t1302188101
+s4404
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/iconYouTube.png
+t1302188101
+s3852
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/lineDotted.png
+t1302188100
+s975
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/lineSolid.png
+t1302188100
+s931
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/lineVertical.png
+t1302188100
+s1003
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/lineVertical2.png
+t1302188100
+s982
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/lineVertical3.png
+t1302188100
+s975
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/listArtigos.png
+t1302188100
+s1451
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/listImprensa.png
+t1302188100
+s1201
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/listNoticias.png
+t1302188100
+s1445
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/logo.png
+t1302188100
+s5233
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/logoGS&MD.png
+t1302188100
+s16684
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/logoQuintaNobre.png
+t1302188100
+s7290
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/logoTrainee.png
+t1302188100
+s7773
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/logoViverBem.png
+t1302188100
+s6365
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/parceiros.png
+t1302188100
+s19077
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/publicidade.png
+t1302188101
+s8493
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/somosEstrutura.png
+t1302188100
+s64488
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/buttonBackground.png
+c000000004D7F5DA900000000000005E7
+t1300192681
+s1511
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/icon.png
+c000000004D874C7F0000000000000C2F
+t1300712575
+s3119
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconArtigos.png
+c000000004D7F5DA900000000000005E1
+t1300192681
+s1505
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconFacebook.png
+c000000004D7F63E20000000000000FEB
+t1300194274
+s4075
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconImprensa.png
+c000000004D7F5DA900000000000007E1
+t1300192681
+s2017
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconLinkedin.png
+c000000004D7F63F100000000000010BA
+t1300194289
+s4282
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconNoticias.png
+c000000004D7F5DA9000000000000053A
+t1300192681
+s1338
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconSomos.png
+c000000004D7F5DA90000000000000468
+t1300192681
+s1128
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconTalentos.png
+c000000004D7F5DA900000000000007C3
+t1300192681
+s1987
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconTwitter.png
+c000000004D7F63FB0000000000001134
+t1300194299
+s4404
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconYouTube.png
+c000000004D7F64070000000000000F0C
+t1300194311
+s3852
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineDotted.png
+c000000004D7F5DA900000000000003CF
+t1300192681
+s975
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineSolid.png
+c000000004D7F5DA900000000000003A3
+t1300192681
+s931
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical.png
+c000000004D7F5DA900000000000003EB
+t1300192681
+s1003
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical2.png
+c000000004D7F5DA900000000000003D6
+t1300192681
+s982
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical3.png
+c000000004D7F5DA900000000000003CF
+t1300192681
+s975
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listArtigos.png
+c000000004D7F5DA900000000000005AB
+t1300192681
+s1451
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listImprensa.png
+c000000004D7F5DA900000000000004B1
+t1300192681
+s1201
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listNoticias.png
+c000000004D7F5DA900000000000005A5
+t1300192681
+s1445
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logo.png
+c000000004D7F5DA90000000000001471
+t1300192681
+s5233
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoGS&MD.png
+c000000004D7F5DA9000000000000412C
+t1300192681
+s16684
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoQuintaNobre.png
+c000000004D7F5DA90000000000001C7A
+t1300192681
+s7290
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoTrainee.png
+c000000004D7F5DA90000000000001E5D
+t1300192681
+s7773
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoViverBem.png
+c000000004D7F5DA900000000000018DD
+t1300192681
+s6365
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m
+c000000004D7F5DA90000000000000161
+t1300192681
+s353
+i<UIKit/UIKit.h>
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/parceiros.png
+c000000004D7F5DA90000000000004A85
+t1300192681
+s19077
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/publicidade.png
+c000000004D7F5DA9000000000000212D
+t1300192681
+s8493
+
+N/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/somosEstrutura.png
+c000000004D7F5DA9000000000000FBE8
+t1300192681
+s64488
+
+N/var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch.gch
+t1302188103
+s15474096
+
+NGSMD-Info.plist
+c000000004D7F5DA9000000000000038E
+t1300192681
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323891659#323891660#0(0"0(0#1#0"8655354112#0"0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/AATabBarController.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.741988
+e323880903.984395
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/AATabBarController.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m323880903#323880903#0(0"0(0#0#78"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m8658661216#2070"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/AATabBarController.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/AATabBarController.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Banner.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880904.724494
+e323880904.839315
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Banner.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m323880904#323880904#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m8650658400#2046"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Banner.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Banner.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Dados.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.993897
+e323891652.156787
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Dados.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m323891651#323891652#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m8674466912#2044"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/Dados.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/Dados.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/DadosImprensa.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891652.167354
+e323891652.342811
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/DadosImprensa.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m323891652#323891652#0(0"0(0#0#73"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m8673263072#2060"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/DadosImprensa.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/DadosImprensa.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMDAppDelegate.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.194906
+e323880903.442464
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMDAppDelegate.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m323880903#323880903#0(0"0(0#0#75"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m8658523904#2064"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/GSMDAppDelegate.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMDAppDelegate.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/MeuWebViewViewController.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891652.157284
+e323891652.328055
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/MeuWebViewViewController.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m323891652#323891652#0(0"0(0#0#84"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m8673457248#2082"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/MeuWebViewViewController.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/News.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880904.546023
+e323880904.675401
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/News.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m323880904#323880904#0(0"0(0#0#64"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m8655451680#2042"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/News.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/News.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/OHAttributedLabel.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.196818
+e323880903.741855
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/OHAttributedLabel.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m323880903#323880903#0(0"0(0#0#77"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m8657350048#2068"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/OHAttributedLabel.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/OHAttributedLabel.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/RootViewController.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.569873
+e323891651.991904
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/RootViewController.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m323891651#323891651#0(0"0(0#0#78"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m8674485024#2070"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/RootViewController.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/TBXML.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880904.631106
+e323880905.074407
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/TBXML.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m323880904#323880905#0(0"0(0#0#63"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m8654186144#2042"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/TBXML/TBXML.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/TBXML.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UINavigationBar.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.442603
+e323880903.550556
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UINavigationBar.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m323880903#323880903#0(0"0(0#0#75"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m8655078080#2064"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UINavigationBar.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UINavigationBar.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UITabBar+ColorExtensions.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.832747
+e323880904.005666
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UITabBar+ColorExtensions.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m323880903#323880904#0(0"0(0#0#84"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m8654453600#2082"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UITabBar+ColorExtensions.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UITabBar+ColorExtensions.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UIViewController+Loading.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.439451
+e323880903.832612
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UIViewController+Loading.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m323880903#323880903#0(0"0(0#0#84"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m8655672448#2082"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/UIViewController+Loading.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/UIViewController+Loading.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewArtigos.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.920668
+e323891652.276439
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewArtigos.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m323891651#323891652#0(0"0(0#0#71"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m8674927616#2056"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewArtigos.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewAssessoria.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880904.238409
+e323880904.545869
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewAssessoria.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m323880904#323880904#0(0"0(0#0#74"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m8659423968#2062"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewAssessoria.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewDetail.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891070.901699
+e323891071.506285
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewDetail.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m323891070#323891071#0(0"0(0#0#70"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m8673303840#2054"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewDetail.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewImprensa.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.992371
+e323891652.310802
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewImprensa.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m323891651#323891652#0(0"0(0#0#72"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m8674669312#2058"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewImprensa.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewNoticias.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.737550
+e323891652.167072
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewNoticias.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m323891651#323891652#0(0"0(0#0#72"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m8673285632#2058"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewNoticias.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewQuemSomos.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880904.431340
+e323880904.630908
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewQuemSomos.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m323880904#323880904#0(0"0(0#0#73"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m8656391776#2060"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewQuemSomos.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewTalentos.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880904.005804
+e323880904.238275
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewTalentos.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m323880904#323880904#0(0"0(0#0#72"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m8651348288#2058"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/ViewTalentos.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/criaBotao.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.735133
+e323891651.920489
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/criaBotao.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m323891651#323891651#0(0"0(0#0#69"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m8673564576#2052"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/criaBotao.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/criaBotao.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/functions.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.553093
+e323880903.857308
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/functions.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m323880903#323880903#0(0"0(0#0#69"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m8648213792#2052"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/functions.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/functions.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/main.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880903.193628
+e323880903.438519
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/main.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m323880903#323880903#0(0"0(0#0#56"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m8658940608#2034"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/main.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/tabBarItem.o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323891651.736450
+e323891651.992135
+r1
+xCompileC
+xbuild/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/tabBarItem.o
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m323891651#323891651#0(0"0(0#0#70"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m8673436832#2054"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/tabBarItem.m -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/tabBarItem.o0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.xib
+s323880901.604157
+e323880902.174704
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.xib
+lSLF07#2@47"CompileXIB Classes/MeuWebViewViewController.xib323880901#323880902#0(0"0(0#0#86"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.xib8656720032#638"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/MeuWebViewViewController.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/MeuWebViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.xib
+s323880900.243072
+e323880900.884006
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.xib
+lSLF07#2@34"CompileXIB Classes/ViewArtigos.xib323880900#323880900#0(0"0(0#0#73"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.xib8613544064#612"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewArtigos.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewArtigos.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib
+s323880900.884123
+e323880901.735021
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:8: note: This view is clipping its content.
+o/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:6: note: This view is clipping its content.
+o/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:9: note: This view is clipping its content.
+o/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:7: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB Classes/ViewAssessoria.xib323880900#323880901#0(524"/* com.apple.ibtool.document.notices *//Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:8: note: This view is clipping its content./Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:6: note: This view is clipping its content./Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:9: note: This view is clipping its content./Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib:7: note: This view is clipping its content.4(13@34"This view is clipping its content.323880901#18446744073709551615#0#0(6@76"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib321885466#8#0#8#0#0"0(13@34"This view is clipping its content.323880901#18446744073709551615#0#0(6@76"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib321885466#6#0#6#0#0"0(13@34"This view is clipping its content.323880901#18446744073709551615#0#0(6@76"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib321885466#9#0#9#0#0"0(13@34"This view is clipping its content.323880901#18446744073709551615#0#0(6@76"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib321885466#7#0#7#0#0"0(0#0#76"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib8653402272#618"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewAssessoria.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewAssessoria.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.xib
+s323880901.460974
+e323880902.056529
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.xib
+lSLF07#2@33"CompileXIB Classes/ViewDetail.xib323880901#323880902#0(0"0(0#0#72"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.xib8658877952#610"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewDetail.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewDetail.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.xib
+s323880900.879686
+e323880901.460865
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.xib
+lSLF07#2@35"CompileXIB Classes/ViewImprensa.xib323880900#323880901#0(0"0(0#0#74"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.xib8654077056#614"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewImprensa.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewImprensa.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.xib
+s323880900.227214
+e323880900.879404
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.xib
+lSLF07#2@35"CompileXIB Classes/ViewNoticias.xib323880900#323880900#0(0"0(0#0#74"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.xib8614998528#614"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewNoticias.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewNoticias.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.xib
+s323880900.928024
+e323880901.767162
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.xib
+lSLF07#2@36"CompileXIB Classes/ViewQuemSomos.xib323880900#323880901#0(0"0(0#0#75"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.xib8652097792#616"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewQuemSomos.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewQuemSomos.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.xib
+s323880900.808383
+e323880901.594847
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.xib
+lSLF07#2@35"CompileXIB Classes/ViewTalentos.xib323880900#323880901#0(0"0(0#0#74"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.xib8655066400#614"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/ViewTalentos.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Classes/ViewTalentos.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/MainWindow.xib
+s323880900.106371
+e323880900.808269
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323880900#323880900#0(0"0(0#0#64"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/MainWindow.xib8650199904#602"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/MainWindow.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/RootViewController.xib
+s323880900.107068
+e323880900.927907
+r1
+xCompileXIB
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib323880900#323880900#0(0"0(0#0#72"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/RootViewController.xib8649812032#618"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/RootViewController.nib /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Entitlements.plist Entitlements.plist
+s323880901.735916
+e323880902.163813
+r1
+xCopyPlistFile
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Entitlements.plist
+xEntitlements.plist
+lSLF07#2@23"Copy Entitlements.plist323880901#323880902#0(0"0(0#0#68"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Entitlements.plist8655568896#414"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Entitlements.plist --outdir /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/Default.png Default.png
+s323880900.222122
+e323880900.235418
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png323880900#323880900#0(0"0(0#0#61"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Default.png8630175424#522"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/Default.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/backListrado.png backListrado.png
+s323880900.131059
+e323880900.178107
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/backListrado.png
+xbackListrado.png
+lSLF07#2@21"Copy backListrado.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/backListrado.png8643408704#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/backListrado.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnArtigos.png btnArtigos.png
+s323880900.108402
+e323880900.166852
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnArtigos.png
+xbtnArtigos.png
+lSLF07#2@19"Copy btnArtigos.png323880900#323880900#0(0"0(0#0#64"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnArtigos.png8648207232#525"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnArtigos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnBack.png btnBack.png
+s323880900.107659
+e323880900.166688
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnBack.png
+xbtnBack.png
+lSLF07#2@16"Copy btnBack.png323880900#323880900#0(0"0(0#0#61"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnBack.png8649559264#522"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnBack.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnDFreire.png btnDFreire.png
+s323880900.197157
+e323880900.221018
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnDFreire.png
+xbtnDFreire.png
+lSLF07#2@19"Copy btnDFreire.png323880900#323880900#0(0"0(0#0#64"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnDFreire.png8654449056#525"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnDFreire.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnHome.png btnHome.png
+s323880900.130214
+e323880900.177954
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnHome.png
+xbtnHome.png
+lSLF07#2@16"Copy btnHome.png323880900#323880900#0(0"0(0#0#61"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnHome.png8644383616#522"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnHome.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnImprensa.png btnImprensa.png
+s323880900.109167
+e323880900.177660
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnImprensa.png
+xbtnImprensa.png
+lSLF07#2@20"Copy btnImprensa.png323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnImprensa.png8647492576#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnImprensa.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnNoticias.png btnNoticias.png
+s323880900.109892
+e323880900.177808
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnNoticias.png
+xbtnNoticias.png
+lSLF07#2@20"Copy btnNoticias.png323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnNoticias.png8646732288#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnNoticias.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnSomos.png btnSomos.png
+s323880900.110635
+e323880900.166999
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnSomos.png
+xbtnSomos.png
+lSLF07#2@17"Copy btnSomos.png323880900#323880900#0(0"0(0#0#62"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnSomos.png8645585088#523"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnSomos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/btnTalentos.png btnTalentos.png
+s323880900.116613
+e323880900.167155
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/btnTalentos.png
+xbtnTalentos.png
+lSLF07#2@20"Copy btnTalentos.png323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnTalentos.png8644979040#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/btnTalentos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/buttonBackground.png buttonBackground.png
+s323880900.195930
+e323880900.221717
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/buttonBackground.png
+xbuttonBackground.png
+lSLF07#2@25"Copy buttonBackground.png323880900#323880900#0(0"0(0#0#70"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/buttonBackground.png8654936224#531"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/buttonBackground.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/icon.png icon.png
+s323880901.735120
+e323880901.742690
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png323880901#323880901#0(0"0(0#0#58"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/icon.png8655812480#519"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/icon.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconArtigos.png iconArtigos.png
+s323880900.224389
+e323880900.237923
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconArtigos.png
+xiconArtigos.png
+lSLF07#2@20"Copy iconArtigos.png323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconArtigos.png8621671520#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconArtigos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconFacebook.png iconFacebook.png
+s323880901.597892
+e323880901.606595
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconFacebook.png
+xiconFacebook.png
+lSLF07#2@21"Copy iconFacebook.png323880901#323880901#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconFacebook.png8658611424#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconFacebook.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconImprensa.png iconImprensa.png
+s323880900.223642
+e323880900.237718
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconImprensa.png
+xiconImprensa.png
+lSLF07#2@21"Copy iconImprensa.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconImprensa.png8627218752#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconImprensa.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconLinkedin.png iconLinkedin.png
+s323880901.599037
+e323880901.610293
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconLinkedin.png
+xiconLinkedin.png
+lSLF07#2@21"Copy iconLinkedin.png323880901#323880901#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconLinkedin.png8657994048#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconLinkedin.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconNoticias.png iconNoticias.png
+s323880900.225099
+e323880900.235579
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconNoticias.png
+xiconNoticias.png
+lSLF07#2@21"Copy iconNoticias.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconNoticias.png8620229120#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconNoticias.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconSomos.png iconSomos.png
+s323880900.225801
+e323880900.235728
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconSomos.png
+xiconSomos.png
+lSLF07#2@18"Copy iconSomos.png323880900#323880900#0(0"0(0#0#63"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconSomos.png8616529760#524"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconSomos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconTalentos.png iconTalentos.png
+s323880900.226523
+e323880900.242948
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconTalentos.png
+xiconTalentos.png
+lSLF07#2@21"Copy iconTalentos.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconTalentos.png8615687552#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconTalentos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconTwitter.png iconTwitter.png
+s323880901.602535
+e323880901.610731
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconTwitter.png
+xiconTwitter.png
+lSLF07#2@20"Copy iconTwitter.png323880901#323880901#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconTwitter.png8657506688#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconTwitter.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/iconYouTube.png iconYouTube.png
+s323880901.603435
+e323880901.610524
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/iconYouTube.png
+xiconYouTube.png
+lSLF07#2@20"Copy iconYouTube.png323880901#323880901#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconYouTube.png8657275904#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/iconYouTube.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/lineDotted.png lineDotted.png
+s323880900.197868
+e323880900.221554
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/lineDotted.png
+xlineDotted.png
+lSLF07#2@19"Copy lineDotted.png323880900#323880900#0(0"0(0#0#64"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineDotted.png8654071008#525"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineDotted.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/lineSolid.png lineSolid.png
+s323880900.198853
+e323880900.221881
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/lineSolid.png
+xlineSolid.png
+lSLF07#2@18"Copy lineSolid.png323880900#323880900#0(0"0(0#0#63"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineSolid.png8653542880#524"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineSolid.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/lineVertical.png lineVertical.png
+s323880900.178903
+e323880900.207313
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/lineVertical.png
+xlineVertical.png
+lSLF07#2@21"Copy lineVertical.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical.png8656302048#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/lineVertical2.png lineVertical2.png
+s323880900.176673
+e323880900.198750
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/lineVertical2.png
+xlineVertical2.png
+lSLF07#2@22"Copy lineVertical2.png323880900#323880900#0(0"0(0#0#67"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical2.png8657470400#528"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical2.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/lineVertical3.png lineVertical3.png
+s323880900.178193
+e323880900.207136
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/lineVertical3.png
+xlineVertical3.png
+lSLF07#2@22"Copy lineVertical3.png323880900#323880900#0(0"0(0#0#67"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical3.png8657101280#528"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/lineVertical3.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/listArtigos.png listArtigos.png
+s323880900.208615
+e323880900.221346
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/listArtigos.png
+xlistArtigos.png
+lSLF07#2@20"Copy listArtigos.png323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listArtigos.png8652243456#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listArtigos.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/listImprensa.png listImprensa.png
+s323880900.207729
+e323880900.220651
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/listImprensa.png
+xlistImprensa.png
+lSLF07#2@21"Copy listImprensa.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listImprensa.png8652958208#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listImprensa.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/listNoticias.png listNoticias.png
+s323880900.209327
+e323880900.228107
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/listNoticias.png
+xlistNoticias.png
+lSLF07#2@21"Copy listNoticias.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listNoticias.png8651766656#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/listNoticias.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/logo.png logo.png
+s323880900.210074
+e323880900.222033
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/logo.png
+xlogo.png
+lSLF07#2@13"Copy logo.png323880900#323880900#0(0"0(0#0#58"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logo.png8642827712#519"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logo.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/logoGS&MD.png logoGS&MD.png
+s323880900.167262
+e323880900.177497
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/logoGS&MD.png
+xlogoGS&MD.png
+lSLF07#2@18"Copy logoGS&MD.png323880900#323880900#0(0"0(0#0#63"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoGS&MD.png8658661472#524"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoGS&MD.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/logoQuintaNobre.png logoQuintaNobre.png
+s323880900.179589
+e323880900.197081
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/logoQuintaNobre.png
+xlogoQuintaNobre.png
+lSLF07#2@24"Copy logoQuintaNobre.png323880900#323880900#0(0"0(0#0#69"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoQuintaNobre.png8656046560#530"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoQuintaNobre.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/logoTrainee.png logoTrainee.png
+s323880900.180290
+e323880900.207465
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/logoTrainee.png
+xlogoTrainee.png
+lSLF07#2@20"Copy logoTrainee.png323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoTrainee.png8655564736#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoTrainee.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/logoViverBem.png logoViverBem.png
+s323880900.181017
+e323880900.207621
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/logoViverBem.png
+xlogoViverBem.png
+lSLF07#2@21"Copy logoViverBem.png323880900#323880900#0(0"0(0#0#66"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoViverBem.png8655216864#527"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/logoViverBem.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/parceiros.png parceiros.png
+s323880900.168140
+e323880900.196944
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/parceiros.png
+xparceiros.png
+lSLF07#2@18"Copy parceiros.png323880900#323880900#0(0"0(0#0#63"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/parceiros.png8658257472#524"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/parceiros.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/publicidade.png publicidade.png
+s323880901.595353
+e323880901.605070
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/publicidade.png
+xpublicidade.png
+lSLF07#2@20"Copy publicidade.png323880901#323880901#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/publicidade.png8659184704#526"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/publicidade.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CCpResource build/Release-iphonesimulator/GSMD.app/somosEstrutura.png somosEstrutura.png
+s323880900.175877
+e323880900.195803
+r1
+xCpResource
+xbuild/Release-iphonesimulator/GSMD.app/somosEstrutura.png
+xsomosEstrutura.png
+lSLF07#2@23"Copy somosEstrutura.png323880900#323880900#0(0"0(0#0#68"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/somosEstrutura.png8657744128#529"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/somosEstrutura.png /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
+CGenerateDSYMFile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app.dSYM /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD
+s323891652.529429
+e323891652.723822
+r1
+xGenerateDSYMFile
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app.dSYM
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD
+lSLF07#2@104"GenerateDSYMFile build/Release-iphonesimulator/GSMD.app.dSYM build/Release-iphonesimulator/GSMD.app/GSMD323891652#323891652#0(0"0(0#0#93"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD8674400352#411"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app.dSYM0#
+
+CLd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD normal i386
+s323891652.342923
+e323891652.529342
+r1
+xLd
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD
+xnormal
+xi386
+lSLF07#2@98"Link /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD323891652#323891652#0(0"0(0#0#0"8669760960#1063"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -L/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -filelist /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/Objects-normal/i386/GSMD.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework CoreText -framework MessageUI -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/GSMD0#
+
+CProcessInfoPlistFile /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Info.plist GSMD-Info.plist
+s323880900.102777
+e323880900.106277
+r1
+xProcessInfoPlistFile
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Info.plist
+xGSMD-Info.plist
+lSLF07#2@23"Process GSMD-Info.plist323880900#323880900#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/GSMD-Info.plist8659743200#507"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GSMD-Info.plist -genpkginfo /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app/Info.plist0#
+
+CProcessPCH /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch.gch GSMD_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323880902.174832
+e323880903.193365
+r1
+xProcessPCH
+x/var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch.gch
+xGSMD_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile GSMD_Prefix.pch323880902#323880903#0(0"0(0#0#65"/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/GSMD_Prefix.pch8652643008#1916"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-generated-files.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-own-target-headers.hmap -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-all-target-headers.hmap -iquote /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/GSMD-project-headers.hmap -F/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/include -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources/i386 -I/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/GSMD.build/Release-iphonesimulator/GSMD.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/GSMD_Prefix.pch -o /var/folders/1O/1OJN-IXCHi4+PEdVNBaoI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GSMD_Prefix-btkynvxeukoixkgscvxcibrsnwdz/GSMD_Prefix.pch.gch0#
+
+CTouch /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app
+s323891652.723902
+e323891652.726102
+r1
+xTouch
+x/Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app
+lSLF07#2@94"Touch /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app323891652#323891652#0(0"0(0#0#0"8674931968#299"    cd /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/fabiovalencio/Aplicativos/iPhone/GSMD/GSMD/build/Release-iphonesimulator/GSMD.app0#
+
